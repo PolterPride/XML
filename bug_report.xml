@@ -1,1 +1,17 @@
-
+<main>
+  <id>1</id>
+  <name>somebug</name>
+  <summary>short information about bug</summary>
+  <project>name of project</project>
+  <component>name of component</component>
+  <version>version of application</version>
+  <severity>S5</severity>
+  <prioroty>P3</priority>
+  <status>new/opened/closed</status>
+  <author>name of qa engineer</author>
+  <assignedTo>name of developer<assignedTo>
+  <description>full information about software, steps to reproduce</description>
+  <expectedResult>expected result for all steps</expectedResult>
+  <actualResult>actual result for all steps</actualResult>
+  <attachment>additional information about bug</attachment>
+</main>
